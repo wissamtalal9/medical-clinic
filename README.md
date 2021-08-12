@@ -21,4 +21,11 @@ Team members
 ●	Abrar Alzubi
 
 
+### user stories:
+1. as a user i want to see a bereif about this web-site and has a greeting.
+2. as a user i want to choose one of the common disease and give me a discribe and solutions for it.
+3. as a user i want to check some of the nearest medical care centers.
+4. as a user i want to send my info to the web-site like what is my issue and how long i was suffer from it.
+5. as a user i want to see some of famous doctors in my contry.
+
 
